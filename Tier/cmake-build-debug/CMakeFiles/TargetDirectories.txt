@@ -1,0 +1,3 @@
+C:/Users/muell/OneDrive - Berufsbildungszentrum Schaffhausen/Desktop/HF/SE/24 HS/Uebungen/Probepruefung3/Tier/cmake-build-debug/CMakeFiles/Tier.dir
+C:/Users/muell/OneDrive - Berufsbildungszentrum Schaffhausen/Desktop/HF/SE/24 HS/Uebungen/Probepruefung3/Tier/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/muell/OneDrive - Berufsbildungszentrum Schaffhausen/Desktop/HF/SE/24 HS/Uebungen/Probepruefung3/Tier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
